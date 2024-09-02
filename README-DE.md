@@ -343,3 +343,4 @@ Sie können die Variablen wie üblich angeben oder eine `.env`-Datei verwenden.
 | RUST_LOG | all | Debug-Level einstellen (error\|warn\|info\|debug\|trace) |
 | SINGLE_BANDWIDTH | hbbr | Maximale Bandbreite für eine einzelne Verbindung (in Mb/s) |
 | TOTAL_BANDWIDTH | hbbr | Maximale Gesamtbandbreite (in Mb/s) |
+
